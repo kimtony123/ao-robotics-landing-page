@@ -92,13 +92,9 @@ const Portfolio = () => {
       status: "Pending",
     },
   ];
-
-  const demoUrl =
-    "https://www.youtube.com/watch?v=Yy4OgGwEAj8&list=PLLSegLrePWgJudpPUof4-nVFHGkB62Izy&index=8";
-  const codeUrl =
-    "https://github.com/kimtony123/aoc/blob/main/src/components/footer/Footer.tsx";
-  const moreInfoUrl =
-    "https://github.com/kimtony123/aoc/blob/main/src/components/footer/Footer.tsx";
+  const demoUrl = "https://youtu.be/Ihpc0bb_1sw";
+  const codeUrl = "https://github.com/kimtony123/calculator-dapp";
+  const moreInfoUrl = "https://calculatordapp.netlify.app/";
 
   return (
     <div

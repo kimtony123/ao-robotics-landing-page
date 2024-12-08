@@ -17,10 +17,10 @@ const Home = () => {
           </h2>
 
           <p className="text-gray-400 py-4 max-w-md text-lg">
-            Supercharge your robotics projects with **AO-Robotics**. Unlock the
-            power of ROS2 on the AOComputer network and access the **best
-            robotic packages** for IoT and robotics development. Build smarter,
-            faster, and more efficient robotic systems.
+            Supercharge your IOT and robotics projects with **AO-Robotics**.
+            Unlock the power of ROS2 on the AOComputer network and access the
+            **best robotic packages** for IoT and robotics development. Build
+            smarter, faster, and more efficient robotic systems.
           </p>
 
           <div>
